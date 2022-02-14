@@ -136,7 +136,11 @@ Section {
 .steps div {
     margin-bottom:80px;
 }
-.step img {
+.step{
+    Width:15%;
+    margin:  0;
+} 
+img {
     width:15%;
     margin:10px 0;
 }
